@@ -1,7 +1,7 @@
 # Audio-Transcription-Webapp-using-Flask
 Audio Transcription Webapp using Flask
 
-![App Interface](https://drive.google.com/file/d/1wYoKDgKnmrrAhkLmBx-So5skCUw8SYvv/view?usp=share_link)
+![Untitled](https://user-images.githubusercontent.com/45523231/212465672-b4415746-7e02-44e6-9271-f358d8cc4c83.png)
 
 
 This is a basic web application for transcribing audio files using the Flask framework and the SpeechRecognition library.
