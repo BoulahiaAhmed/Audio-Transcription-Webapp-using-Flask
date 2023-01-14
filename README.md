@@ -18,3 +18,14 @@ SpeechRecognition
 ## App description
 
 This is a basic audio transcription web application using the Flask framework. The application allows users to upload an audio file and receive the transcribed text in return. The application uses the SpeechRecognition library to perform the transcription and the Flask framework for the web interface. The application has a simple user interface that allows users to upload an audio file and view the transcribed text.
+
+## How to implement
+
+This repository had 3 files app.py, index.html, and index.css
+
+follow this basic directory tree for same results.
+
+
+![directory tree](https://user-images.githubusercontent.com/45523231/212466360-9ca24f4d-2796-434e-8ec6-01ca0c00558d.png)
+
+
